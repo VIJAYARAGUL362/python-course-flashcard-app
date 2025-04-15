@@ -1,0 +1,588 @@
+German,English
+ich,I
+du,you
+er,he
+sie,she
+es,it
+wir,we
+ihr,you (plural)
+sie (plural),they
+der,the (masculine singular nominative/accusative)
+die,"the (feminine singular nominative/accusative, plural nominative/accusative/genitive)"
+das,the (neuter singular nominative/accusative)
+ein,a
+eine,a
+einer,one (masculine/neuter nominative)
+einen,a (masculine accusative)
+einem,a (masculine/neuter dative)
+mein,my
+dein,your
+sein,his
+ihr,her
+sein,its
+unser,our
+euer,your (plural)
+ihr (possessive plural),their
+kein,no
+keine,no
+keiner,none (masculine/neuter nominative/accusative)
+keinen,no (masculine accusative)
+keinem,no (masculine/neuter dative)
+und,and
+oder,or
+aber,but
+denn,because
+sondern,but rather
+weil,because
+dass,that
+wenn,when
+als,as
+wie,how
+so,so
+sehr,very
+auch,also
+nur,only
+noch,still
+schon,already
+jetzt,now
+immer,always
+oft,often
+manchmal,sometimes
+nie,never
+ja,yes
+nein,no
+bitte,please
+danke,thank you
+hallo,hello
+tschüss,bye
+auf,on
+in,in
+an,at
+mit,with
+nach,to (after a place name)
+von,from
+zu,to
+bei,at
+für,for
+ohne,without
+um,around
+über,over
+unter,under
+vor,in front of
+hinter,behind
+zwischen,between
+neben,next to
+durch,through
+gegen,against
+entlang,along
+statt,instead of
+trotz,despite
+während,during
+wegen,because of
+außerhalb von,outside of
+innerhalb von,inside of
+dies,this
+diese,this
+dieses,this
+dieser,this
+diesem,this
+diesen,these
+jener,that
+jene,that
+jenes,that
+solcher,such
+solche,such
+solches,such
+alle,all
+alles,everything
+alle (plural),all
+etwas,something
+nichts,nothing
+jemand,someone
+niemand,no one
+man,one
+viel,much
+wenig,little
+mehr,more
+weniger,less
+genug,enough
+etwas,something
+einige,some
+beide,both
+mehrere,several
+zahlreich,numerous
+erst,first
+zweit,second
+dritt,third
+viert,fourth
+fünft,fifth
+sechst,sixth
+siebt,seventh
+acht,eight
+neun,nine
+zehn,ten
+hundert,hundred
+tausend,thousand
+Million,million
+Milliarde,billion
+mal,time
+Stunde,hour
+Tag,day
+Woche,week
+Monat,month
+Jahr,year
+Minute,minute
+Sekunde,second
+gestern,yesterday
+heute,today
+morgen,tomorrow
+übermorgen,the day after tomorrow
+vorgestern,the day before yesterday
+früh,early
+spät,late
+bald,soon
+dann,then
+danach,after that
+vorher,before
+zuletzt,last
+schließlich,finally
+eigentlich,actually
+nämlich,namely
+trotzdem,nevertheless
+deshalb,therefore
+deswegen,therefore
+darum,therefore
+also,so
+somit,thus
+ferner,further
+weiterhin,furthermore
+außerdem,besides
+dagegen,on the other hand
+einerseits,on the one hand
+andererseits,on the other hand
+sowohl,both
+als auch,as well as
+entweder,either
+oder,or
+weder,neither
+noch,nor
+sowohl ... als auch,both ... and
+entweder ... oder,either ... or
+weder ... noch,neither ... nor
+zwar ... aber,although ... but
+je ... desto,the ... the
+um ... zu,in order to
+ohne ... zu,without ... to
+statt ... zu,instead of ... to
+damit,so that
+sodass,so that
+falls,if
+sofern,provided that
+solange,as long as
+sobald,as soon as
+bevor,before
+nachdem,after
+seitdem,since
+während,while
+bis,until
+obwohl,although
+trotzdem,nevertheless
+weil,because
+da,since
+zumal,especially
+angenommen,assuming
+gesetzt den Fall,assuming
+"im Falle, dass",in case that
+"unter der Bedingung, dass",under the condition that
+"vorausgesetzt, dass",provided that
+selbst wenn,even if
+auch wenn,even if
+obgleich,although
+wenngleich,although
+sooft,as often as
+wie wenn,as if
+als ob,as if
+indem,by
+"dadurch, dass",by the fact that
+hiermit,herewith
+damit,thereby
+dazu,to that
+darauf,thereon
+darin,therein
+darüber,thereabout
+darum,therefore
+davon,thereof
+dazu,thereto
+daraufhin,thereupon
+hierauf,hereon
+worauf,whereon
+worin,wherein
+worüber,whereabout
+worum,wherefore
+wovon,whereof
+wozu,whereto
+weshalb,why
+weswegen,why
+warum,why
+wieso,why
+weswegen,why
+kraft,by virtue of
+mangels,for lack of
+mittels,by means of
+namens,by name of
+unweit,not far from
+vermöge,by virtue of
+halber,because of
+zufolge,according to
+betreffend,concerning
+einschließlich,including
+ausschließlich,excluding
+gegenüber,opposite
+laut,according to
+gemäß,according to
+wider,contrary to
+zuzüglich,plus
+abzüglich,minus
+hinsichtlich,regarding
+bezüglich,regarding
+angesichts,in view of
+anhand,based on
+aufgrund,due to
+ausweislich,according to
+mangels,for lack of
+seitens,on the part of
+statt,instead of
+trotz,despite
+während,during
+wegen,because of
+um ... willen,for the sake of
+anstelle von,instead of
+außerhalb von,outside of
+innerhalb von,inside of
+oberhalb von,above
+unterhalb von,below
+diesseits von,on this side of
+jenseits von,on the other side of
+infolge von,as a result of
+dank,thanks to
+ungeachtet,regardless of
+vorbehaltlich,subject to
+zwecks,for the purpose of
+hinsichtlich,regarding
+bezüglich,regarding
+angesichts,in view of
+anhand,based on
+aufgrund,due to
+ausweislich,according to
+mangels,for lack of
+seitens,on the part of
+kraft,by virtue of
+mittels,by means of
+namens,by name of
+vermöge,by virtue of
+halber,because of
+zufolge,according to
+betreffend,concerning
+einschließlich,including
+ausschließlich,excluding
+gegenüber,opposite
+laut,according to
+gemäß,according to
+wider,contrary to
+zuzüglich,plus
+abzüglich,minus
+unweit,not far from
+statt,instead of
+trotz,despite
+während,during
+wegen,because of
+um ... willen,for the sake of
+anstelle von,instead of
+außerhalb von,outside of
+innerhalb von,inside of
+oberhalb von,above
+unterhalb von,below
+diesseits von,on this side of
+jenseits von,on the other side of
+infolge von,as a result of
+dank,thanks to
+ungeachtet,regardless of
+vorbehaltlich,subject to
+zwecks,for the purpose of
+haben,to have
+sein,to be
+werden,to become
+können,can
+müssen,must
+sollen,should
+wollen,want
+dürfen,may
+mögen,may
+machen,to do
+gehen,to go
+kommen,to come
+sehen,to see
+hören,to hear
+wissen,to know
+denken,to think
+glauben,to believe
+finden,to find
+meinen,to mean
+fühlen,to feel
+werden (auxiliary),to become (auxiliary)
+bleiben,to stay
+liegen,to lie
+stehen,to stand
+sitzen,to sit
+laufen,to run
+fahren,to drive
+fliegen,to fly
+schwimmen,to swim
+essen,to eat
+trinken,to drink
+schlafen,to sleep
+arbeiten,to work
+lernen,to learn
+spielen,to play
+wohnen,to live
+leben,to live
+lieben,to love
+hassen,to hate
+fragen,to ask
+antworten,to answer
+helfen,to help
+geben,to give
+nehmen,to take
+bringen,to bring
+holen,to fetch
+suchen,to search
+finden,to find
+verlieren,to lose
+gewinnen,to win
+kaufen,to buy
+verkaufen,to sell
+bezahlen,to pay
+kosten,to cost
+brauchen,to need
+kennen,to know
+vergessen,to forget
+erinnern,to remember
+erklären,to explain
+erzählen,to tell
+schreiben,to write
+lesen,to read
+sprechen,to speak
+verstehen,to understand
+reden,to talk
+zuhören,to listen
+beginnen,to begin
+aufhören,to stop
+enden,to end
+dauern,to last
+warten,to wait
+versuchen,to try
+vorbereiten,to prepare
+putzen,to clean
+kochen,to cook
+backen,to bake
+braten,to roast
+schneiden,to cut
+öffnen,to open
+schließen,to close
+zeigen,to show
+meinen,to mean
+fühlen,to feel
+lachen,to laugh
+weinen,to cry
+grüßen,to greet
+sich freuen,to look forward to
+sich ärgern,to be annoyed
+sich wundern,to be surprised
+sich interessieren,to be interested
+sich beschweren,to complain
+sich bedanken,to thank
+sich entschuldigen,to apologize
+sich erinnern,to remember
+sich verlieben,to fall in love
+sich vorstellen,to introduce oneself
+sich waschen,to wash oneself
+sich anziehen,to get dressed
+sich ausziehen,to undress
+sich beeilen,to hurry
+sich entspannen,to relax
+sich kümmern,to take care of
+sich verabschieden,to say goodbye
+sich verletzen,to injure oneself
+sich streiten,to argue
+sich beruhigen,to calm down
+sich entscheiden,to decide
+sich entwickeln,to develop
+sich ereignen,to happen
+sich lohnen,to be worthwhile
+sich irren,to be mistaken
+sich schämen,to be ashamed
+sich sorgen,to worry
+sich bemühen,to make an effort
+sich weigern,to refuse
+sich beklagen,to complain
+sich benehmen,to behave
+sich beziehen,to refer
+sich eignen,to be suitable
+sich ergeben,to result
+sich fühlen,to feel
+sich gewöhnen,to get used to
+sich halten,to hold
+sich nähern,to approach
+sich richten,to address
+sich scheiden lassen,to get divorced
+sich setzen,to sit down
+sich handeln,to about
+sich sonnen,to sunbathe
+sich spezialisieren,to specialize
+sich treffen,to meet
+sich umsehen,to look around
+sich unterhalten,to converse
+sich verändern,to change
+sich verbessern,to improve
+sich verschlechtern,to worsen
+sich verstecken,to hide
+sich vorbereiten,to prepare oneself
+sich wünschen,to wish
+sein (infinitive),to be
+haben (infinitive),to have
+werden (infinitive),to become
+können (infinitive),can
+müssen (infinitive),must
+sollen (infinitive),should
+wollen (infinitive),want
+dürfen (infinitive),may
+mögen (infinitive),may
+sagen (infinitive),to say
+machen (infinitive),to do
+gehen (infinitive),to go
+kommen (infinitive),to come
+sehen (infinitive),to see
+hören (infinitive),to hear
+wissen (infinitive),to know
+denken (infinitive),to think
+glauben (infinitive),to believe
+finden (infinitive),to find
+meinen (infinitive),to mean
+fühlen (infinitive),to feel
+werden (infinitive - auxiliary),to become (auxiliary)
+bleiben (infinitive),to stay
+liegen (infinitive),to lie
+stehen (infinitive),to stand
+sitzen (infinitive),to sit
+laufen (infinitive),to run
+fahren (infinitive),to drive
+fliegen (infinitive),to fly
+schwimmen (infinitive),to swim
+essen (infinitive),to eat
+trinken (infinitive),to drink
+schlafen (infinitive),to sleep
+arbeiten (infinitive),to work
+lernen (infinitive),to learn
+spielen (infinitive),to play
+wohnen (infinitive),to live
+leben (infinitive),to live
+lieben (infinitive),to love
+hassen (infinitive),to hate
+fragen (infinitive),to ask
+antworten (infinitive),to answer
+helfen (infinitive),to help
+geben (infinitive),to give
+nehmen (infinitive),to take
+bringen (infinitive),to bring
+holen (infinitive),to fetch
+suchen (infinitive),to search
+finden (infinitive),to find
+verlieren (infinitive),to lose
+gewinnen (infinitive),to win
+kaufen (infinitive),to buy
+verkaufen (infinitive),to sell
+bezahlen (infinitive),to pay
+kosten (infinitive),to cost
+brauchen (infinitive),to need
+kennen (infinitive),to know
+erinnern (infinitive),to remember
+erklären (infinitive),to explain
+erzählen (infinitive),to tell
+schreiben (infinitive),to write
+lesen (infinitive),to read
+sprechen (infinitive),to speak
+verstehen (infinitive),to understand
+reden (infinitive),to talk
+zuhören (infinitive),to listen
+anrufen (infinitive),to call
+beginnen (infinitive),to begin
+aufhören (infinitive),to stop
+dauern (infinitive),to last
+warten (infinitive),to wait
+versuchen (infinitive),to try
+vorbereiten (infinitive),to prepare
+putzen (infinitive),to clean
+kochen (infinitive),to cook
+backen (infinitive),to bake
+braten (infinitive),to roast
+schneiden (infinitive),to cut
+öffnen (infinitive),to open
+schließen (infinitive),to close
+zeigen (infinitive),to show
+meinen (infinitive),to mean
+fühlen (infinitive),to feel
+lachen (infinitive),to laugh
+weinen (infinitive),to cry
+grüßen (infinitive),to greet
+sich freuen (infinitive),to look forward to
+sich ärgern (infinitive),to be annoyed
+sich wundern (infinitive),to be surprised
+sich interessieren (infinitive),to be interested
+sich beschweren (infinitive),to complain
+sich bedanken (infinitive),to thank
+sich entschuldigen (infinitive),to apologize
+sich erinnern (infinitive),to remember
+sich verlieben (infinitive),to fall in love
+sich vorstellen (infinitive),to introduce oneself
+sich waschen (infinitive),to wash oneself
+sich anziehen (infinitive),to get dressed
+sich ausziehen (infinitive),to undress
+sich beeilen (infinitive),to hurry
+sich entspannen (infinitive),to relax
+sich kümmern (infinitive),to take care of
+sich verabschieden (infinitive),to say goodbye
+sich verletzen (infinitive),to injure oneself
+sich streiten (infinitive),to argue
+sich beruhigen (infinitive),to calm down
+sich entscheiden (infinitive),to decide
+sich entwickeln (infinitive),to develop
+sich ereignen (infinitive),to happen
+sich handeln (infinitive),to be about
+sich lohnen (infinitive),to be worthwhile
+sich irren (infinitive),to be mistaken
+sich schämen (infinitive),to be ashamed
+sich sorgen (infinitive),to worry
+sich weigern (infinitive),to refuse
+sich beklagen (infinitive),to complain
+sich benehmen (infinitive),to behave
+sich beziehen (infinitive),to refer
+sich eignen (infinitive),to be suitable
+sich ergeben (infinitive),to result
+sich fühlen (infinitive),to feel
+sich gewöhnen (infinitive),to get used to
+sich halten (infinitive),to hold
+sich nähern (infinitive),to approach
+sich richten (infinitive),to address
+sich scheiden lassen (infinitive),to get divorced
+sich setzen (infinitive),to sit down
+sich sonnen (infinitive),to sunbathe
+sich spezialisieren (infinitive),to specialize
+sich treffen (infinitive),to meet
+sich umsehen (infinitive),to look around
+sich unterhalten (infinitive),to converse
+sich verändern (infinitive),to change
+sich verbessern (infinitive),to improve
+sich verschlechtern (infinitive),to worsen
+sich verstecken (infinitive),to hide
+sich vorbereiten (infinitive),to prepare oneself
+sich wünschen (infinitive),to wish
